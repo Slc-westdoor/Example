@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>67A9F274-22DC-44CE-A3B2-307200560C80</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>93596bd2-0dc3-f74b-bcd7-aa8426d3b99b++8664</key>
+		<string>svn://sinofreely.f3322.org/dlcm/Trird/json</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>93596bd2-0dc3-f74b-bcd7-aa8426d3b99b++8664</key>
+		<string>json/</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>93596bd2-0dc3-f74b-bcd7-aa8426d3b99b++8664</key>
+		<string>svn://sinofreely.f3322.org/dlcm</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://sinofreely.f3322.org/dlcm/Trird/json</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>93596bd2-0dc3-f74b-bcd7-aa8426d3b99b++8664</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>93596bd2-0dc3-f74b-bcd7-aa8426d3b99b++8664</string>
+			<key>IDESourceControlWCCName</key>
+			<string>json</string>
+		</dict>
+	</array>
+</dict>
+</plist>
